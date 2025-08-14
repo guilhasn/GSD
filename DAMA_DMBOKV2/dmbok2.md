@@ -1,5 +1,5 @@
-Data Governance – Governança de Dados
-Data Architecture – Arquitetura de Dados
+##Data Governance – Governança de Dados##
+##Data Architecture – Arquitetura de Dados##
 Data Modeling and Design – Modelação e Desenho de Dados
 Data Storage and Operations – Armazenamento e Operações de Dados
 Data Security – Segurança de Dados
