@@ -14,7 +14,6 @@ Este documento reúne comunidades, fóruns e grupos de discussão dedicados a **
 ---
 
 ## ​ Reddit
-- [r/datagovernance](https://www.reddit.com/r/datagovernance/) – Comunidade focada em práticas, frameworks e políticas de governança de dados.  
 - [r/dataquality](https://www.reddit.com/r/dataquality/) – Discussões sobre qualidade de dados, métricas e boas práticas.  
 - [r/datamanagement](https://www.reddit.com/r/datamanagement/) – Focado em gestão de dados, MDM, metadados e catálogos de dados.  
 - [r/analytics](https://www.reddit.com/r/analytics/) – Comunidade de análise de dados com várias discussões relevantes sobre Data Governance na prática. Por exemplo:
