@@ -5,7 +5,7 @@ Este documento reúne comunidades, fóruns e grupos de discussão dedicados a **
 ---
 
 ## ​ LinkedIn
-- [DAMA International](https://www.linkedin.com/company/dama-international/) – Associação global de profissionais de gestão de dados, promovendo padrões como CDMP e DMBOK :contentReference[oaicite:6]{index=6}.  
+- [DAMA International](https://www.linkedin.com/company/dama-international/) – Associação global de profissionais de gestão de dados, promovendo padrões como CDMP e DMBOK.  
 - [DAMA NL (Netherlands)](https://www.linkedin.com/company/dama-nl/) – Capítulo ativo na produção de conhecimento (como o Data Management Wiki).  
 - [EDM Council](https://www.linkedin.com/company/edmcouncil/) – Organização dedicada ao avanço de standards em Data Governance como DCAM e CDMC.  
 - [DAMA UK](https://www.linkedin.com/company/dama-uk-ltd) – Comunidade do Reino Unido com eventos e partilhas relevantes :contentReference[oaicite:7]{index=7}.  
