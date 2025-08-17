@@ -14,18 +14,13 @@ Este documento reúne comunidades, fóruns e grupos de discussão dedicados a **
 ---
 
 ## ​ Reddit
-- [r/dataquality](https://www.reddit.com/r/dataquality/) – Discussões sobre qualidade de dados, métricas e boas práticas.  
-- [r/datamanagement](https://www.reddit.com/r/datamanagement/) – Focado em gestão de dados, MDM, metadados e catálogos de dados.  
 - [r/analytics](https://www.reddit.com/r/analytics/) – Comunidade de análise de dados com várias discussões relevantes sobre Data Governance na prática. Por exemplo:
-  > Uma thread sobre estabilidade na área de Data Governance, após transitar de BI, refere-se ao papel estratégico e crescente desta função nas organizações. :contentReference[oaicite:8]{index=8}  
-  > Outro tópico questiona o que se faz no dia a dia de um profissional nesta área, realçando a importância da documentação, modelação de dados, definições claras e competências interdisciplinares. :contentReference[oaicite:9]{index=9}  
 
 ---
 
 ## ​​ YouTube
-- [DAMA International – canal oficial](https://www.youtube.com/@DAMAInternational) – Sessões sobre Data Management e Data Governance.  
-- [EDM Council](https://www.youtube.com/@EDMCouncil) – Webinars centrados nos frameworks DCAM e CDMC.  
-- [Data Management University](https://www.youtube.com/@DataManagementUniversity) – Conteúdo educativo sobre governança, MDM, qualidade e metadados.
+- [EDM Council](https://www.youtube.com/@EDMAssociation) – Webinars centrados nos frameworks DCAM e CDMC.  
+- [Data Management University](https://www.youtube.com/@ewsolutionsdatamanagementu5086/) – Conteúdo educativo sobre governança, MDM, qualidade e metadados.
 
 ---
 
@@ -38,8 +33,7 @@ Este documento reúne comunidades, fóruns e grupos de discussão dedicados a **
 
 ---
 
-✍️ *Sugestão para os alunos:*  
-Escolham **uma destas comunidades** e acompanhem de forma regular (ex.: leituras no DataVersity, vídeos do EDM Council, debates no Reddit). Isto ajuda a conectar o conhecimento teórico com a realidade do sector.
+✍️ Escolham **uma destas comunidades** e acompanhem de forma regular (ex.: leituras no DataVersity, vídeos do EDM Council, debates no Reddit). Isto ajuda a ligar  o conhecimento teórico com a realidade do sector.
 
 ---
 
