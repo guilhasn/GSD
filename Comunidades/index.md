@@ -33,7 +33,11 @@ Este documento reúne comunidades, fóruns e grupos de discussão dedicados a **
 
 ---
 
-✍️ Escolham **uma destas comunidades** e acompanhem de forma regular (ex.: leituras no DataVersity, vídeos do EDM Council, debates no Reddit). Isto ajuda a ligar  o conhecimento teórico com a realidade do sector.
+## 🎮 Ferramentas e Jogos Interativos
+- [Chief Data Officer Game](https://www.whoisthebestcdo.com/) – Jogo interativo onde assumes o papel de CDO numa empresa fictícia.  
+  👉 O objetivo é equilibrar inovação com conformidade, ganhar apoio interno, gerir riscos de dados e demonstrar o valor estratégico da informação.  
+  Tens de monitorizar indicadores de desempenho, tomar decisões sobre qualidade, governança e IA, mas a meta final é **aumentar o lucro da organização**.  
+
 
 ---
 
