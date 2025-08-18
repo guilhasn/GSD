@@ -6,7 +6,7 @@
   - Criação da Carta do Projeto da GD (data governance charter);  
   - Identificação dos processos da GD, alinhamento com os processos empresariais e adequação de processos de gestão de dados.  
 - **Dica:** esta fase deve ser realizada em grupo, porque é a base de todo o PGSD.
-[Ver resumo do Business Case](resumo_business_case.md)
+[Ver resumo do Business Case](PGSD/1 - Business Case/index.md)
 ---
 
 ## 2. Engagement
