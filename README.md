@@ -2,9 +2,6 @@
 Material
 
 
+##CDO SIMULATOR##
 
-
-
-
-
-[CDO SIMULATOR](https://www.genspark.ai/api/page_private?id=ocepnfci)
+##Missão 1 - A importância da Governança dos Dados (https://www.genspark.ai/api/page_private?id=ocepnfci)
