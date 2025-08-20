@@ -1,0 +1,1 @@
+- [Streamlining Data Governance in the Building Material Industry through Metadata Management](https://flevy.com/topic/metadata-management/case-streamlining-data-governance-building-material-industry-metadata-management#section3)
