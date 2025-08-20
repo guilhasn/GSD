@@ -40,13 +40,3 @@ O artigo descreve como um fornecedor médio de materiais de construção superou
 - Desafio notado: engagement de stakeholders no início atrasou marcos; reforçar estratégias de envolvimento e atualizar programas de formação são recomendados.
 - Recomenda-se também ampliar analytics para monitorização em tempo real e manter ciclos de melhoria contínua.
 
-[1](https://products.fileformat.app/pt/word-processing/conversion/txt-to-md)
-[2](https://products.aspose.app/words/pt/conversion/txt-to-md)
-[3](https://www.rich-text-to-markdown.com)
-[4](https://products.aspose.app/cells/pt/conversion/txt-to-markdown)
-[5](https://products.aspose.com/cells/pt/python-java/conversion/txt-to-markdown/)
-[6](https://tableconvert.com/pt/markdown-to-markdown)
-[7](https://products.groupdocs.app/pt/conversion/txt-to-md)
-[8](https://euangoddard.github.io/clipboard2markdown/)
-[9](https://www.reddit.com/r/ObsidianMD/comments/xjmgao/converting_txt_files_in_bulk_to_md_ideally_on/?tl=pt-br)
-[10](https://cloudconvert.com/txt-to-md)
