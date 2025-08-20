@@ -1,1 +1,1 @@
-
+- [Streamlining Data Governance in the Building Material Industry through Metadata Management](https://github.com/guilhasn/GSD/blob/main/PGSD/Exemplos/Streamlining%20Data%20Governance%20in%20the%20Building%20Material%20Industry%20through%20Metadata%20Management.md)
