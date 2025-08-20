@@ -1,1 +1,2 @@
-[Manhã com Dados - Assessment e maturidade em Gestão de Dados](https://www.youtube.com/watch?v=-MU4mrp_7aQ)
+- [Manhã com Dados - Assessment e maturidade em Gestão de Dados](https://www.youtube.com/watch?v=-MU4mrp_7aQ)
+- [Modelos de Avaliação de Maturidade](https://github.com/SuperNerb/Data-Governance-Compilation/tree/master/Library/Maturity%20Models)
