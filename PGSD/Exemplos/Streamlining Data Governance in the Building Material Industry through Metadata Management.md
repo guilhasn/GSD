@@ -1,8 +1,8 @@
-## Otimização da Governança de Dados na Indústria de Materiais de Construção através da Gestão de Metadados
+# Otimização da Governança de Dados na Indústria de Materiais de Construção através da Gestão de Metadados
 
 
 
-# Resumo do artigo
+## Resumo do artigo
 
 O artigo descreve como um fornecedor médio de materiais de construção superou inconsistências de dados e ineficiências operacionais através da implementação de um framework robusto de Metadata Management, obtendo ganhos como +20% em precisão de dados, +25% em velocidade de decisão e +20% em eficiência operacional.
 
