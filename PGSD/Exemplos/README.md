@@ -1,3 +1,3 @@
 - [Otimização da Governança de Dados na Indústria de Materiais de Construção através da Gestão de Metadados](https://github.com/guilhasn/GSD/blob/main/PGSD/Exemplos/Streamlining%20Data%20Governance%20in%20the%20Building%20Material%20Industry%20through%20Metadata%20Management.md)
 - [Data Governance na Logística para Eficiência da Cadeia de Abastecimento](https://github.com/guilhasn/GSD/blob/7914f5a4fd760f29b37d457780f6720307d4b9c7/PGSD/Exemplos/DG%20%20na%20Log%C3%ADstica%20para%20Efici%C3%AAncia%20da%20Cadeia%20de%20Abastecimento.md)
-- [Data Governance na Logística para Eficiência da Cadeia de Abastecimento] 
+- [Data Governance numa Tech em Rápido Crescimento] 
