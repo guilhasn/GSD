@@ -1,5 +1,5 @@
-Fonte: 
- - [Streamlining Data Governance in the Building Material Industry through Metadata Management](https://flevy.com/topic/metadata-management/case-streamlining-data-governance-building-material-industry-metadata-management#section3)
+## Otimização da Governança de Dados na Indústria de Materiais de Construção através da Gestão de Metadados
+
 
 
 # Resumo do artigo
@@ -40,3 +40,5 @@ O artigo descreve como um fornecedor médio de materiais de construção superou
 - Desafio notado: engagement de stakeholders no início atrasou marcos; reforçar estratégias de envolvimento e atualizar programas de formação são recomendados.
 - Recomenda-se também ampliar analytics para monitorização em tempo real e manter ciclos de melhoria contínua.
 
+Fonte: 
+ - [Streamlining Data Governance in the Building Material Industry through Metadata Management](https://flevy.com/topic/metadata-management/case-streamlining-data-governance-building-material-industry-metadata-management#section3)
