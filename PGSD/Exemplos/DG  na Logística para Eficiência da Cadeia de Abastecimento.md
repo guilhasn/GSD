@@ -2,7 +2,7 @@
 
 # Caso: Data Governance na Logística para Eficiência da Cadeia de Abastecimento
 
-## TL;DR
+## Resumo
 Uma empresa média de logística sofria com fraca governação de dados, levando a +20% atrasos em envios e −15% satisfação do cliente. Ao implementar rastreamento em tempo real e otimizar processos, aumentou a eficiência, reduziu atrasos e elevou a satisfação, evidenciando a importância de uma gestão de dados robusta e formação de colaboradores.
 
 ## Contexto e objetivo
