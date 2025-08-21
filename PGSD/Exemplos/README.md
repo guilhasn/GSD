@@ -1,1 +1,2 @@
 - [Streamlining Data Governance in the Building Material Industry through Metadata Management](https://github.com/guilhasn/GSD/blob/main/PGSD/Exemplos/Streamlining%20Data%20Governance%20in%20the%20Building%20Material%20Industry%20through%20Metadata%20Management.md)
+- https://github.com/guilhasn/GSD/blob/7914f5a4fd760f29b37d457780f6720307d4b9c7/PGSD/Exemplos/DG%20%20na%20Log%C3%ADstica%20para%20Efici%C3%AAncia%20da%20Cadeia%20de%20Abastecimento.md
