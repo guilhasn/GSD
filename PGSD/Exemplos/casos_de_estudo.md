@@ -417,3 +417,116 @@ Uma empresa no sector de materiais de construção operava globalmente com um po
 
 ## Lição Aprendida
 A integração dos processos de metadados permitiu melhorar a eficiência, reduzir erros e facilitar a colaboração com parceiros. O caso mostra que, em sectores industriais, a governança de metadados é um factor crítico para assegurar consistência em toda a cadeia de valor.
+
+
+# Caso 22 – Aerospace Vendor Master Data Management in Competitive Market
+
+**Fonte:** [Link](https://flevy.com/topic/master-data-management/case-aerospace-vendor-master-data-management-competitive-market)
+
+## Resumo
+Um fornecedor de componentes aeroespaciais enfrentava inconsistências de dados ao longo da sua cadeia de fornecimento global. Bases de dados desarticuladas comprometiam a integridade do master data, levando a custos acrescidos, atrasos e risco de incumprimento das normas da indústria. A empresa procurava harmonizar e centralizar o master data para garantir eficiência e conformidade.
+
+## Detalhe do Caso
+- **Diagnóstico:** levantamento do estado do master data (fornecedores, peças, normas); análise de duplicados e inconsistências; auditoria à conformidade com normas aeroespaciais AS9100 e de traceabilidade.  
+- **Governança de MDM:** estabelecimento de políticas de criação, aprovação e revisão de master data; definição de papéis (data stewards e owners) para cada tipo de registo.  
+- **Plataforma MDM:** implementação de um sistema MDM que centralizasse registos de fornecedores, peças e certificações; integração com ERP e sistemas de compras; validação automática e deduplicação.  
+- **Integração com parceiros:** normalização de códigos de peças e fornecedores; sincronização via EDI; requisitos contratuais para qualidade de dados.  
+- **Formação e KPIs:** capacitação das equipas de compras e engenharia em processos MDM; KPIs para taxa de duplicados, tempo de cadastro e cumprimento normativo.  
+
+## Lição Aprendida
+A centralização e padronização do master data ajudou a reduzir custos, melhorar a conformidade e acelerar processos de produção. O sector aeroespacial demonstra como a gestão de dados mestres pode ser um factor decisivo para competitividade e qualidade.
+
+---
+
+# Caso 23 – Data Management System Refinement for D2C Beverage Firm
+
+**Fonte:** [Link](https://flevy.com/topic/data-management/case-data-management-system-refinement-d2c-beverage-firm)
+
+## Resumo
+Uma empresa de bebidas direct-to-consumer, em rápido crescimento, enfrentava silos de dados e sistemas de gestão inadequados perante o aumento de vendas online e interacções com clientes. A organização precisava de melhorar as capacidades de gestão de dados para suportar as operações em expansão e a tomada de decisões.
+
+## Detalhe do Caso
+- **Diagnóstico:** identificação de fontes de dados (loja online, aplicações de fidelização, marketing) e análise de inconsistências; verificação da conformidade com normas de segurança alimentar e privacidade.  
+- **Estratégia de dados:** desenvolvimento de um roadmap de Data Management com componentes de integração (ETL), armazenamento (data warehouse) e analytics; adopção de frameworks ITIL para processos operacionais.  
+- **Modernização de sistemas:** substituição de sistemas legados por soluções baseadas em cloud, com APIs para CRM e ERP; adopção de MDM para clientes e produtos; implementação de pipelines automatizadas para ingestão e transformação.  
+- **Privacidade e compliance:** implementação de controlos de acesso e criptografia; alinhamento com RGPD e normas de segurança alimentar (HACCP); gestão de consentimentos.  
+- **Formação e KPIs:** formação de equipas de marketing e supply chain em utilização de dashboards; definição de KPIs como tempo de resposta ao cliente, exactidão de inventário e taxa de recompra.  
+
+## Lição Aprendida
+A modernização da gestão de dados permitiu à empresa escalar as operações com eficiência e manter a qualidade dos dados. Reforça-se que, para marcas D2C, a integração de sistemas e a conformidade com normas de privacidade são essenciais para a sustentabilidade do negócio.
+
+---
+
+# Caso 24 – Master Data Management for Mid-Sized Educational Institution
+
+**Fonte:** [Link](https://flevy.com/topic/master-data-management/case-master-data-management-mid-sized-educational-institution)
+
+## Resumo
+Uma instituição de ensino de média dimensão enfrentava inconsistências de dados entre departamentos, prejudicando a eficiência operacional e a fiabilidade dos relatórios. A multiplicidade de sistemas para estudantes, professores e administração criava dificuldades de integração. A instituição desejava unificar a gestão de dados para melhorar o apoio às decisões e a prestação de serviços.
+
+## Detalhe do Caso
+- **Inventário de master data:** identificação de entidades-chave (estudantes, cursos, professores, instalações); análise de duplicações e inconsistências; alinhamento com normas do sector educacional.  
+- **Governança MDM:** criação de um data governance board com representantes de departamentos académicos e administrativos; definição de regras de criação e actualização de registos mestres.  
+- **Tecnologia:** implementação de um sistema MDM que integrasse SIS (Student Information Systems), HR, finanças e CRM; adopção de um data warehouse institucional para relatórios; integração via APIs.  
+- **Processos de qualidade:** definição de padrões de codificação (ID de estudante, códigos de curso), validação automática e reconciliação; aplicação de ISO 27701 para privacidade de dados.  
+- **Cultura:** formação de staff académico e administrativo sobre importância de dados consistentes; utilização de dashboards para monitorizar KPIs como exactidão de registos, tempos de matrícula e satisfação dos estudantes.  
+
+## Lição Aprendida
+A unificação do master data melhorou a fiabilidade dos relatórios e a eficiência dos processos internos. Para o Ensino Superior, o caso mostra que uma gestão de dados centralizada é vital para a digitalização e a melhoria da experiência académica.
+
+---
+
+# Caso 25 – Data Management Enhancement for Telecom Infrastructure Provider
+
+**Fonte:** [Link](https://flevy.com/topic/data-management/case-data-management-enhancement-telecom-infrastructure-provider)
+
+## Resumo
+Um fornecedor de infraestruturas de telecomunicações estava a sofrer ineficiências devido à gestão dispersa de dados em inúmeros projectos e clientes. As bases de dados fragmentadas atrasavam prazos de projecto e conduziam a decisões suboptimais. A empresa precisava de uma reformulação estratégica da gestão de dados para manter a competitividade num sector em rápida evolução.
+
+## Detalhe do Caso
+- **Análise de sistemas:** identificação de aplicações e repositórios utilizados em projectos (planificação de rede, engenharia, vendas) e avaliação de redundâncias; adopção de frameworks ITIL e COBIT para mapear processos.  
+- **Arquitectura integrada:** concepção de uma arquitectura de dados corporativa com um data lake central e ferramentas de ETL; integração com sistemas de planeamento, CRM e monitorização de rede.  
+- **Qualidade e MDM:** implementação de MDM para clientes, equipamentos e locais; definição de standards de nomenclatura e validação.  
+- **Governança e segurança:** criação de políticas de acesso e classificação, alinhadas com ISO 27001 e SOC 2; implementação de sistemas de encriptação e logging.  
+- **Formação e KPIs:** formação das equipas técnicas em utilização de novas plataformas; definição de KPIs para tempo de execução de projectos, precisão de inventário de activos e indicadores de fiabilidade da rede.  
+
+## Lição Aprendida
+A reestruturação da gestão de dados permitiu à empresa acelerar projectos, melhorar a precisão e reduzir riscos. Demonstra-se que, no sector das telecomunicações, a integração de dados e a governança robusta são fundamentais para a inovação e a satisfação do cliente.
+
+---
+
+# Caso 26 – Data Management System Overhaul for D2C Health Supplements Brand
+
+**Fonte:** [Link](https://flevy.com/topic/data-management/case-data-management-system-overhaul-d2c-health-supplements)
+
+## Resumo
+Uma marca D2C de suplementos de saúde enfrentava problemas de inconsistência e acessibilidade de dados nos seus sistemas online em rápida expansão. A gestão desactualizada impedia visibilidade em tempo real e acarretava custos elevados. A empresa pretendia renovar o sistema de gestão de dados para melhorar a eficiência e a capacidade de resposta ao mercado.
+
+## Detalhe do Caso
+- **Avaliação de sistema:** análise das plataformas de e-commerce, marketing e logística, identificando limitações e duplicações; consulta a frameworks de DAMA-DMBOK e ITIL.  
+- **Desenho de nova arquitectura:** migração para soluções em cloud com escalabilidade e integração; adopção de MDM para clientes e produtos; criação de pipelines ETL automatizados.  
+- **Qualidade e integração:** utilização de ferramentas de data quality para limpeza e reconciliação; normalização de dados e eliminação de silos.  
+- **Segurança e compliance:** aplicação de controlos de acesso, encriptação e auditorias, alinhadas com RGPD e regulamentação de suplementos de saúde; gestão de consentimentos de clientes.  
+- **Capacitação e cultura:** formação das equipas de marketing, logística e suporte sobre novos sistemas e governança; definição de KPIs de performance (tempo de processamento de pedidos, exactidão de stock, satisfação do cliente).  
+
+## Lição Aprendida
+A renovação do sistema de gestão de dados possibilitou análises em tempo real, optimização de inventário e melhoria da experiência do cliente. Este caso evidencia a necessidade de actualizar sistemas D2C para suportar crescimento e conformidade regulamentar.
+
+---
+
+# Caso 27 – Data Management System Overhaul for Automotive Supplier in North America
+
+**Fonte:** [Link](https://flevy.com/topic/data-management/case-data-management-system-overhaul-automotive-supplier-north-america)
+
+## Resumo
+Um fornecedor do sector automóvel na América do Norte enfrentava ineficiências e falta de integração devido a práticas de Data Management obsoletas. Com o sector a adoptar soluções digitais e a exigir rastreabilidade, a empresa precisava de modernizar o seu sistema para aproveitar oportunidades e manter a competitividade.
+
+## Detalhe do Caso
+- **Diagnóstico:** avaliação de sistemas de produção, qualidade e logística; identificação de duplicações e ausência de integração; revisão de conformidade com normas IATF 16949 e ISO 9001.  
+- **Estrutura de gestão de dados:** desenvolvimento de um roadmap de Data Management integrado com MDM para fornecedores, peças e veículos; integração com sistemas de fabrico (MES) e ERP.  
+- **Tecnologia:** adopção de data lake, pipelines ETL e ferramentas de analytics; normalização de dados e implementação de processos de data quality.  
+- **Segurança e privacidade:** alinhamento com ISO 27001, CISM, e legislação de protecção de dados; segmentação de acessos e encriptação de dados sensíveis (por exemplo, dados de telemática).  
+- **Cultura de dados:** formação de equipas em literacia de dados, alinhamento de KPIs (tempos de ciclo, defeitos por milhão, tempo de resposta a cliente) com objectivos de negócio.  
+
+## Lição Aprendida
+Modernizar o sistema de gestão de dados permitiu à empresa responder às exigências do sector automóvel, aumentar a eficiência e garantir a rastreabilidade. O caso destaca a importância de integrar Data Management com normas de qualidade e segurança específicas da indústria.
