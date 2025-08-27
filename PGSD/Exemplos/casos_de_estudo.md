@@ -1,4 +1,4 @@
-# Casos de Governança de Dados - 50 Estudos de Caso
+# 50 Estudos de Caso de Data Governance
 
 # Caso 1 – Streamlining Data Governance in the Building Material Industry through Metadata Management
 
