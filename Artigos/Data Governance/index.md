@@ -1,1 +1,1 @@
-The Invisible Layer of Data Governance
+- [The Invisible Layer of Data Governance](https://thedatagovernanceplaybook.substack.com/p/the-invisible-layer-of-data-governance)
