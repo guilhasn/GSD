@@ -1,5 +1,8 @@
 # O Caso de Negócio da Governação de Dados
 
+## GSD Academy :  ETAPA 1 — Caso de Negócio (Ladley, Cap. 5) 
+- https://jppdspoc.gensparkspace.com/
+
 ## Porque é necessário um business case?
 - A Governação de Dados (GD) é um programa empresarial, não apenas de TI.  
 - Mesmo que a liderança reconheça a importância dos dados, é essencial justificar investimentos com um **caso de negócio sólido**.  
