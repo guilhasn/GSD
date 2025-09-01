@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Governance Simulator: Initiation Phase</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; background-color: #f4f4f9; color: #333; }
+        h1, h2 { color: #2c3e50; }
+        .section { margin-bottom: 20px; padding: 15px; background-color: white; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        button { background-color: #3498db; color: white; padding: 10px 15px; border: none; border-radius: 5px; cursor: pointer; }
+        button:hover { background-color: #2980b9; }
+        .feedback { margin-top: 10px; padding: 10px; border-radius: 5px; }
+        .success { background-color: #d4edda; color: #155724; }
+        .error { background-color: #f8d7da; color: #721c24; }
+        .neutral { background-color: #fff3cd; color: #856404; }
+        #simulation-output { font-style: italic; margin-top: 10px; }
+    </style>
+</head>
+<body>
+    <h1>Data Governance Simulator: Initiation Phase</h1>
+    <p>Based on John Ladley's "Data Governance" (Chapter 7: Engagement). Simulate starting a DG program for Banco InovaData. Make decisions and get feedback!</p>
+    
+    <div class="section">
+        <h2>Step 1: Obtain Program Approval</h2>
+        <p>As per Ladley, secure leadership approval for a sustainable program, not just a project. What approach do you take?</p>
+        <select id="approval-choice">
+            <option value="">Select an option</option>
+            <option value="low-profile">Low-profile: Start small, verify support quietly.</option>
+            <option value="formal">Formal: Get CEO charter and sponsors.</option>
+            <option value="poc">Proof-of-Concept: Treat as a temporary project.</option>
+        </select>
+        <button onclick="evaluateApproval()">Submit</button>
+        <div id="approval-feedback" class="feedback"></div>
+    </div>
+    
+    <div class="section">
+        <h2>Step 2: Develop DG Rollout Team Structure</h2>
+        <p>Ladley recommends a skilled team with sponsors. Include stakeholders and avoid common pitfalls like inadequate resources.</p>
+        <p>Choose team members (select 4-6):</p>
+        <input type="checkbox" id="cdo" value="CDO"> CDO (Leader)<br>
+        <input type="checkbox" id="cio" value="CIO"> CIO (Co-sponsor)<br>
+        <input type="checkbox" id="business" value="Business Director"> Business Director (Sponsor)<br>
+        <input type="checkbox" id="compliance" value="Compliance Head"> Compliance Head<br>
+        <input type="checkbox" id="stewards" value="Data Stewards"> 2 Data Stewards (Risk/Retail)<br>
+        <input type="checkbox" id="it-dev" value="IT Developer"> IT Developer (Unskilled for DG)<br>
+        <button onclick="evaluateTeam()">Form Team</button>
+        <div id="team-feedback" class="feedback"></div>
+    </div>
+    
+    <div class="section">
+        <h2>Step 3: Generate Deliverables</h2>
+        <p>Create quick deliverables like a charter and organogram.</p>
+        <button onclick="generateDeliverables()">Simulate Generation</button>
+        <div id="deliverables-output"></div>
+    </div>
+    
+    <div class="section">
+        <h2>Simulation Summary</h2>
+        <div id="simulation-output"></div>
+    </div>
+    
+    <script>
+        function evaluateApproval() {
+            const choice = document.getElementById("approval-choice").value;
+            const feedback = document.getElementById("approval-feedback");
+            if (choice === "formal") {
+                feedback.innerHTML = "Great! Formal approval aligns with Ladley's emphasis on programmatic support. For InovaData: CEO dispatches charter for 12 months.";
+                feedback.className = "feedback success";
+            } else if (choice === "low-profile") {
+                feedback.innerHTML = "Good for resistant cultures, but verify sponsor passion as per Ladley.";
+                feedback.className = "feedback neutral";
+            } else if (choice === "poc") {
+                feedback.innerHTML = "Avoid! Ladley warns against POC mindset; it leads to non-sustainable projects.";
+                feedback.className = "feedback error";
+            } else {
+                feedback.innerHTML = "Please select an option.";
+                feedback.className = "feedback error";
+            }
+        }
+        
+        function evaluateTeam() {
+            const checkboxes = document.querySelectorAll('input[type="checkbox"]:checked');
+            const selected = Array.from(checkboxes).map(cb => cb.value);
+            const feedback = document.getElementById("team-feedback");
+            if (selected.length < 4 || selected.length > 6) {
+                feedback.innerHTML = "Team size should be 4-6 FTEs as per Ladley.";
+                feedback.className = "feedback error";
+                return;
+            }
+            if (selected.includes("IT Developer")) {
+                feedback.innerHTML = "Warning: Avoid unskilled members; Ladley notes this as a sign DG isn't taken seriously.";
+                feedback.className = "feedback error";
+            } else if (selected.includes("CDO") && selected.includes("CIO") && selected.includes("Business Director") && selected.includes("Compliance Head") && selected.includes("Data Stewards")) {
+                feedback.innerHTML = "Perfect team for InovaData! Includes sponsor passion and diverse skills (policy, facilitation).";
+                feedback.className = "feedback success";
+            } else {
+                feedback.innerHTML = "Incomplete: Need strong sponsor and diverse skills like DM experts.";
+                feedback.className = "feedback neutral";
+            }
+        }
+        
+        function generateDeliverables() {
+            const output = document.getElementById("deliverables-output");
+            output.innerHTML = `
+                <h3>Generated Charter (One-Pager):</h3>
+                <p>Banco InovaData DG Program: Approved by CEO. Goals: Improve data quality for expansion. Timeline: 12 months.</p>
+                <h3>Organogram:</h3>
+                <ul>
+                    <li>CDO (Leader)</li>
+                    <li>CIO & Business Director (Sponsors)</li>
+                    <li>Compliance Head</li>
+                    <li>Data Stewards</li>
+                </ul>
+                <h3>Meeting Calendar:</h3>
+                <p>Bi-weekly sponsors; Weekly team.</p>
+            `;
+        }
+    </script>
+</body>
+</html>
