@@ -1,6 +1,11 @@
-# Engagement — Pontos-chave (Cap. 7, John Ladley)
+# Engagement - (Cap. 7, John Ladley)
 
 ### GSD Academy :  ETAPA 2 — Engagement (Ladley, Cap. 7)  - https://txguegxq.gensparkspace.com/
+
+
+
+
+# Pontos Chave
 
 - **Clarificar o que é DG e delimitar o âmbito antes de avançar**
   - Pôr todos a falar a mesma linguagem: definir, de forma simples e inequívoca, o que é “data governance” na organização e qual o seu **âmbito** (onde atua e onde não atua).
