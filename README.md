@@ -1,8 +1,10 @@
 # Governança e Segurança dos Dados
 
 
+- ### [Entender a importância da Governança dos Dados](https://notebooklm.google.com/notebook/16ca856b-bd71-42fc-a03a-ae1175dffd10?artifactId=a89dbd50-c637-4cea-bd15-a6c41155f29f)
+
 
 ##CDO SIMULATOR##
 
-[Missão 1 - A importância da Governança dos Dados] (https://www.genspark.ai/api/page_private?id=abqklviq)
+[Missão 1 - A importância da Governança dos Dados](https://www.genspark.ai/api/page_private?id=abqklviq)
 (https://fdvpj47hq9i0.space.minimax.io/)
