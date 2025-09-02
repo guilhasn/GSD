@@ -1,10 +1,9 @@
 # Engagement - (Cap. 7, John Ladley)
 
 <!--### GSD Academy :  ETAPA 2 — Engagement (Ladley, Cap. 7)  - https://txguegxq.gensparkspace.com/-->
-### GSD Academy :  ETAPA 2 — Engagement (Ladley, Cap. 7)  - https://data-gov-engage-683c835c.base44.app/Dashboard
 
-
-
+### GSD Academy :  ETAPA 2 — Engagement - https://data-gov-engage-683c835c.base44.app/Dashboard
+Saber mais: https://myipleiria.sharepoint.com/sites/GovernanaeSeguranadeDados/SitePages/Engageme.aspx
 
 # Pontos Chave
 
