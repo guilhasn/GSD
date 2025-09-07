@@ -1,7 +1,7 @@
 # Atividade Prática – Simulação do CDO: Identificação de Business Cases
 
 ## Objetivo
-Colocar os alunos no papel de um **Chief Data Officer (CDO)**, desafiando-os a identificar, justificar e priorizar *business cases* de Governança de Dados para o **Banco InovaData**.
+Colocar-se no papel de um **Chief Data Officer (CDO)**, desafiando-os a identificar, justificar e priorizar *business cases* de Governança de Dados para o **Banco InovaData**.
 
 ---
 
