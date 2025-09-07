@@ -1,2 +1,3 @@
 - [Data-Governance-Compilation](https://github.com/SuperNerb/Data-Governance-Compilation) - Kit de Ferramentas
 - [Guidance on Governance (GoG)(]https://github.com/odpi/data-governance)
+- https://guanyissketchbook.substack.com/p/making-data-governance-work-a-practical
