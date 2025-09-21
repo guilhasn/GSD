@@ -21,6 +21,7 @@ Este documento reúne comunidades, fóruns e grupos de discussão dedicados a **
 ## ​​ YouTube
 - [EDM Council](https://www.youtube.com/@EDMAssociation) – Webinars centrados nos frameworks DCAM e CDMC.  
 - [Data Management University](https://www.youtube.com/@ewsolutionsdatamanagementu5086/) – Conteúdo educativo sobre governança, MDM, qualidade e metadados.
+- [DigitalEdu](https://www.youtube.com/@digitaledu_oficial)
 
 ---
 
