@@ -1,2 +1,2 @@
-- [Manhã com Dados - 1º Erro na implementação de PGSD](https://www.youtube.com/watch?v=s3wsLIDRfPc)
+- [Manhã com Dados - Roadmap de Governança de Dados: erros comuns e como evitá-lo](https://www.youtube.com/watch?v=s3wsLIDRfPc)
 - [Manhã com Dados - 2º Erro na implementação de PGSD](https://www.linkedin.com/posts/blrdata_confira-mais-um-erro-que-as-pessoas-cometem-activity-7373816165468540928-lqt8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAButhkBQJCMRkQ89Ql11qoyQtXBfP6R5tc)
