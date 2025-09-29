@@ -45,3 +45,8 @@ Um business case deve demonstrar claramente o valor da GD em quatro dimensões p
 - O conceito de **dívida de dados** mostra que adiar boas práticas terá custos ainda maiores no futuro.  
 - O business case é também um processo de “venda interna”: convencer, negociar e alinhar expectativas.  
 
+
+## Ver Exemplos
+- [Exemplos:](https://guilhasn.github.io/GSD-ACADEMY/ETAPA%201%20-%20Business%20Case/exemplo1/)
+- [Mais sobre Business Cases:](https://jppdspoc.gensparkspace.com/)
+
