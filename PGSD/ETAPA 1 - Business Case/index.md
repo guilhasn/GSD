@@ -47,6 +47,6 @@ Um business case deve demonstrar claramente o valor da GD em quatro dimensões p
 
 
 ## Ver Exemplos
-- [Exemplos:](https://guilhasn.github.io/GSD-ACADEMY/ETAPA%201%20-%20Business%20Case/exemplo1/)
-- [Mais sobre Business Cases:](https://jppdspoc.gensparkspace.com/)
+- [Exemplos](https://guilhasn.github.io/GSD-ACADEMY/ETAPA%201%20-%20Business%20Case/exemplo1/)
+- [Mais sobre Business Cases](https://jppdspoc.gensparkspace.com/)
 
