@@ -1,8 +1,8 @@
 # O Caso de Negócio da Governação de Dados
 
 ## GSD Academy :  ETAPA 1 — Caso de Negócio (Ladley, Cap. 5) 
-- https://jppdspoc.gensparkspace.com/
-- [A diferença entre um Business Case e Use Case](https://gemini.google.com/share/d05a12603166)
+<!--- https://jppdspoc.gensparkspace.com/
+- [A diferença entre um Business Case e Use Case](https://gemini.google.com/share/d05a12603166)-->
 
 ## Porque é necessário um business case?
 - A Governação de Dados (GD) é um programa empresarial, não apenas de TI.  
