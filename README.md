@@ -7,3 +7,4 @@
 ##CDO SIMULATOR##
 
 [1 - A importância da Governança dos Dados](https://www.genspark.ai/api/page_private?id=abqklviq)
+[CDO Simulator](https://cdo-quest-fb589d46.base44.app/)
