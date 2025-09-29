@@ -7,7 +7,6 @@
   - Identificação dos processos da GD, alinhamento com os processos empresariais e adequação de processos de gestão de dados.  
 - **Dica:** esta fase deve ser realizada em grupo, porque é a base de todo o PGSD.
 
-- [Ver resumo do Business Case](https://github.com/guilhasn/GSD/blob/main/PGSD/1%20-%20Business%20Case/index.md)
 
 ---
 
