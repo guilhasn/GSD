@@ -87,5 +87,123 @@ As organizações enfrentam frequentemente dificuldades como:
 
 
 
+---
+
+## 7.4 – Estratégias para Criar Envolvimento
+
+A criação de envolvimento exige uma abordagem estruturada e persistente. Algumas estratégias eficazes incluem:
+
+- **Educação e sensibilização**  
+  Explicar o que é Governança de Dados de forma clara, mostrando benefícios concretos para cada área da organização.
+
+- **Histórias de sucesso**  
+  Apresentar casos práticos e exemplos de como a governança ajudou a resolver problemas de negócio.
+
+- **Patrocínio executivo**  
+  Envolver líderes de topo para reforçar a legitimidade do programa.
+
+- **Quick wins**  
+  Mostrar resultados rápidos e visíveis que aumentem a confiança no processo.
+
+- **Integração com objetivos estratégicos**  
+  Ligar a governança aos planos de transformação digital, compliance e inovação.
+
+---
+
+## 7.5 – Sustentar o Envolvimento
+
+Depois de conseguido o apoio inicial, é essencial mantê-lo a longo prazo:
+
+1. **Comunicação contínua** – utilizar relatórios, newsletters e reuniões para manter todos informados.  
+2. **Medição de resultados** – apresentar métricas claras sobre melhorias alcançadas.  
+3. **Reconhecimento e incentivos** – valorizar equipas e pessoas que aplicam boas práticas.  
+4. **Gestão de expectativas** – clarificar que a Governança de Dados é uma jornada contínua, não um projeto com fim definido.  
+
+---
+
+## 7.6 – Papéis-chave no Envolvimento
+
+O sucesso depende de diferentes perfis na organização:
+
+- **Executivos de topo**: garantem patrocínio e autoridade.  
+- **Gestores de negócio**: traduzem a governança em benefícios para as suas áreas.  
+- **Equipa de TI / Dados**: fornecem suporte técnico e operacional.  
+- **Data Stewards**: aplicam políticas e normas no dia a dia.  
+- **Colaboradores em geral**: adotam práticas e participam ativamente.  
+
+---
+
+## 7.7 – Métricas de Envolvimento
+
+A medição do envolvimento pode incluir indicadores como:
+
+- Percentagem de áreas que participam nas iniciativas de Governança de Dados.  
+- Nível de adesão a políticas e normas estabelecidas.  
+- Número de contributos voluntários para a melhoria dos dados.  
+- Frequência de comunicações e interações sobre o tema.  
+- Resultados de questionários internos sobre a perceção de valor da governança.  
+
+---
+
+## 7.8 – Riscos da Falta de Envolvimento
+
+Se o envolvimento não for alcançado, a organização pode enfrentar:
+
+- **Abandono prematuro** do programa.  
+- **Inconsistência** na aplicação de políticas.  
+- **Desalinhamento estratégico** entre dados e objetivos de negócio.  
+- **Baixa credibilidade** junto dos colaboradores e gestores.  
+- **Perda de investimento** em ferramentas e processos que não são utilizados.  
+
+
+---
+
+## 7.9 – Recomendações para o Envolvimento Sustentável
+
+Para garantir que o programa de Governança de Dados se mantém sólido e relevante, recomenda-se:
+
+- **Definir claramente a proposta de valor**  
+  Explicar como a Governança de Dados contribui para objetivos estratégicos (compliance, eficiência, inovação, redução de risco).  
+
+- **Integrar a governança nos processos diários**  
+  Tornar as práticas parte natural do trabalho, em vez de processos adicionais.  
+
+- **Garantir patrocínio de longo prazo**  
+  Assegurar que líderes de topo continuam a apoiar a iniciativa mesmo após mudanças de gestão.  
+
+- **Fomentar uma cultura orientada para os dados**  
+  Promover literacia de dados em todos os níveis da organização.  
+
+- **Manter a comunicação transparente**  
+  Partilhar sucessos, desafios e próximos passos de forma regular e acessível.  
+
+---
+
+## 7.10 – Conclusão
+
+O envolvimento é o **fator crítico de sucesso** da Governança de Dados.  
+Sem ele, mesmo as melhores políticas, processos e ferramentas não terão impacto duradouro.  
+
+Ao contrário de iniciativas puramente técnicas, a Governança de Dados depende de **mudança cultural e organizacional**, exigindo:  
+
+- Patrocínio executivo;  
+- Alinhamento com objetivos de negócio;  
+- Participação ativa dos colaboradores;  
+- Comunicação clara e contínua.  
+
+Com envolvimento genuíno e sustentado, a organização transforma a Governança de Dados de uma iniciativa temporária numa **capacidade estratégica essencial**, capaz de gerar valor ao longo do tempo.  
+
+---
+
+## 7.11 – Próximos Passos
+
+1. Avaliar o nível atual de envolvimento na organização.  
+2. Identificar barreiras e áreas de resistência.  
+3. Definir um plano de comunicação e sensibilização.  
+4. Alinhar a Governança de Dados com projetos estratégicos existentes.  
+5. Estabelecer métricas de acompanhamento para monitorizar a evolução do envolvimento.  
+
+---
+
 
 
