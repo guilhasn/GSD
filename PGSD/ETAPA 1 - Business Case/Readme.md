@@ -7,4 +7,6 @@ Mais exemplos de Data Governance Charters:
 - https://www.airweb.org/docs/default-source/cwa/ucf-data-governance-charter-oct-23.pdf
 - https://www.ucalgary.ca/provost/sites/default/files/teams/3/OIA/Data%20Governance%20Charter%202018%20-%20ELT%20Ops%202020Apr29.pdf
 - https://www.esu.edu/computing_communication_services/documents/22-23/ESU-DataGovernace-Charter23bADA_REV.pdf
-- 
+
+Artigos
+ - [Demonstrating the Value of Data Governance](https://www.dataversity.net/articles/demonstrating-the-value-of-data-governance/)
