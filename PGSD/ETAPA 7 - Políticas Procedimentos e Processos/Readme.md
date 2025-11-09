@@ -1,6 +1,6 @@
 
-
-- [Um papo sobre Qualidade de Dados - Manhã com Dados](youtube.com/watch?v=F1Mtu3VIHWU&pp=0gcJCQMKAYcqIYzv)
+- [Dicas para construir Políticas de Dados](https://www.youtube.com/watch?v=B0oKm2hxtms)
+- ["Um papo" sobre Qualidade de Dados - Manhã com Dados](youtube.com/watch?v=F1Mtu3VIHWU&pp=0gcJCQMKAYcqIYzv)
 
 
 # dataqualityguides.com 
