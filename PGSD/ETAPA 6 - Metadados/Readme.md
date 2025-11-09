@@ -1,1 +1,1 @@
-
+-[O Glossário de Termos de Negócio na Prática](https://www.youtube.com/watch?v=9xyYWOvP8bQ)
