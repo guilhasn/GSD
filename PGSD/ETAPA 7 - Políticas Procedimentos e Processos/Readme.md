@@ -1,4 +1,8 @@
 
+
+- [Um papo sobre Qualidade de Dados - Manhã com Dados](youtube.com/watch?v=F1Mtu3VIHWU&pp=0gcJCQMKAYcqIYzv)
+
+
 # dataqualityguides.com 
 
 ## [dataqualityguides.com](https://www.dataqualityguides.com/)
