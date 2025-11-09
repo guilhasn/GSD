@@ -1,1 +1,2 @@
--[O Glossário de Termos de Negócio na Prática](https://www.youtube.com/watch?v=9xyYWOvP8bQ)
+- [Metadados bem definidos e documentados colaboram com a qualidade de dados](https://www.youtube.com/watch?v=eQuxF9haykE)
+- [O Glossário de Termos de Negócio na Prática](https://www.youtube.com/watch?v=9xyYWOvP8bQ)
