@@ -1,0 +1,1 @@
+-[Entenda as diferenças entre a Auditoria e o Assessment em Gestão de Dados](https://www.youtube.com/watch?v=7H2bi6_BTM0&list=PLeZDdKmlccGpCeHEIzBgSmk-b0xWfxb6r)
