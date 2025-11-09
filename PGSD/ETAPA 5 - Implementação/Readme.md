@@ -1,0 +1,1 @@
+- [Roadmap de Governança de Dados: Erros comuns e como evitá-los](https://www.youtube.com/watch?v=xvHdMiIpuNA)
