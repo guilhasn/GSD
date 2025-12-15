@@ -3,4 +3,4 @@
 
 
 - [Análise de Riscos 27005](https://edurisk-guia-iso-27005-632691460370.us-west1.run.app/)
-- [Exemplos de artefactos criado com IA](https://datagov-edu-inovadata-edition-589000882208.us-west1.run.app/)
+- [Exemplos de artefactos criado com IA](https://datagov-edu-edi-o-inovadata-589000882208.us-west1.run.app/)
